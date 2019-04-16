@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\44688951876\\Desktop\\4a Sprint\\aulas c#\\oo\\exercicio1\\exercicio1.csproj",
+      "projectUniqueName": "c:\\Users\\44688951876\\Desktop\\4a Sprint\\aulas c#\\OO\\OO-Aulas\\OO\\exercicio1\\exercicio1.csproj",
       "projectName": "exercicio1",
-      "projectPath": "C:\\Users\\44688951876\\Desktop\\4a Sprint\\aulas c#\\oo\\exercicio1\\exercicio1.csproj",
+      "projectPath": "c:\\Users\\44688951876\\Desktop\\4a Sprint\\aulas c#\\OO\\OO-Aulas\\OO\\exercicio1\\exercicio1.csproj",
       "packagesPath": "C:\\Users\\44688951876\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\44688951876\\Desktop\\4a Sprint\\aulas c#\\oo\\exercicio1\\obj\\",
+      "outputPath": "c:\\Users\\44688951876\\Desktop\\4a Sprint\\aulas c#\\OO\\OO-Aulas\\OO\\exercicio1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
