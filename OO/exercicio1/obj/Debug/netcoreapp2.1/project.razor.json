@@ -2,5 +2,13 @@
   "ProjectFilePath": "c:\\Users\\44688951876\\Desktop\\4a Sprint\\aulas c#\\OO\\OO-Aulas\\OO\\exercicio1\\exercicio1.csproj",
   "TargetFramework": "netcoreapp2.1",
   "TagHelpers": [],
-  "Configuration": null
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
 }
