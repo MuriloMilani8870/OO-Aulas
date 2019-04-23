@@ -1,0 +1,11 @@
+C:\Users\44688951876\Desktop\4a Sprint\aulas c#\OO\OO-Aulas\OO\desafioCorrigido\obj\Debug\netcoreapp2.1\desafioCorrigido.csprojAssemblyReference.cache
+C:\Users\44688951876\Desktop\4a Sprint\aulas c#\OO\OO-Aulas\OO\desafioCorrigido\obj\Debug\netcoreapp2.1\desafioCorrigido.csproj.CoreCompileInputs.cache
+C:\Users\44688951876\Desktop\4a Sprint\aulas c#\OO\OO-Aulas\OO\desafioCorrigido\obj\Debug\netcoreapp2.1\desafioCorrigido.AssemblyInfoInputs.cache
+C:\Users\44688951876\Desktop\4a Sprint\aulas c#\OO\OO-Aulas\OO\desafioCorrigido\obj\Debug\netcoreapp2.1\desafioCorrigido.AssemblyInfo.cs
+C:\Users\44688951876\Desktop\4a Sprint\aulas c#\OO\OO-Aulas\OO\desafioCorrigido\bin\Debug\netcoreapp2.1\desafioCorrigido.deps.json
+C:\Users\44688951876\Desktop\4a Sprint\aulas c#\OO\OO-Aulas\OO\desafioCorrigido\bin\Debug\netcoreapp2.1\desafioCorrigido.runtimeconfig.json
+C:\Users\44688951876\Desktop\4a Sprint\aulas c#\OO\OO-Aulas\OO\desafioCorrigido\bin\Debug\netcoreapp2.1\desafioCorrigido.runtimeconfig.dev.json
+C:\Users\44688951876\Desktop\4a Sprint\aulas c#\OO\OO-Aulas\OO\desafioCorrigido\bin\Debug\netcoreapp2.1\desafioCorrigido.dll
+C:\Users\44688951876\Desktop\4a Sprint\aulas c#\OO\OO-Aulas\OO\desafioCorrigido\bin\Debug\netcoreapp2.1\desafioCorrigido.pdb
+C:\Users\44688951876\Desktop\4a Sprint\aulas c#\OO\OO-Aulas\OO\desafioCorrigido\obj\Debug\netcoreapp2.1\desafioCorrigido.dll
+C:\Users\44688951876\Desktop\4a Sprint\aulas c#\OO\OO-Aulas\OO\desafioCorrigido\obj\Debug\netcoreapp2.1\desafioCorrigido.pdb
